@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lokal Ride",
+  "description": "A progressive web application where users can rent cars from local owners in Haiti. Car owners can list their vehicles, and renters can browse, book, and manage their rentals seamlessly.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
